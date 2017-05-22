@@ -58,6 +58,10 @@ MIDIIn.connectAll;
 {~stop.value }.try;
 
 
+////////////////////////////////////
+// 				COMPÁS				 //
+////////////////////////////////////
+
 /*	[num, vel, start, stop] */
 ~miditrace = Array.new;
 ~miditraces = Array.new;
