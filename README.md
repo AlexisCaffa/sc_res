@@ -5,3 +5,4 @@
 * [Nick Collins](http://composerprogrammer.com/index.html)
 * [Cool edu: Eastman Computer Music Center](http://ecmc.rochester.edu/ecmc/docs/supercollider/scbook/Ch21_Interface_Investigations/)  
 * [GUI Granulador](http://www.thomashaighton.com/tag/supercollider/)
+* [Faking Objected-Oriented Programing in Supercollider with Events](http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html)
